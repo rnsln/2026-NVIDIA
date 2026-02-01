@@ -7,6 +7,7 @@
 🌐 **Live Website:** Coming Soon!
 
 ---
+### NOTE: We ran out of credits on NVIDIA Brev, so we couldn't get our final code from there. The GQE file under team submission is our algorithm, but a little bit old version. The benchmark results on the PRD are based on the newest version that is stuck on NVIDIA servers...
 
 ## 🧠 The Challenge: Barren Plateaus in LABS
 Standard Variational Quantum Eigensolvers (VQE) typically fail on the **Low Autocorrelation Binary Sequences (LABS)** problem due to **Barren Plateaus**. The energy landscape is exponentially flat, causing gradients to vanish $\mathcal{O}(e^{-\alpha N})$, meaning simple gradient descent gets stuck immediately.
