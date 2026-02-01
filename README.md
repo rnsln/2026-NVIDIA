@@ -9,7 +9,7 @@
 ---
 
 ## 🧠 The Challenge: Barren Plateaus in LABS
-Standard Variational Quantum Eigensolvers (VQE) typically fail on the **Low Autocorrelation Binary Sequences (LABS)** problem due to **Barren Plateaus**. The energy landscape is exponentially flat, causing gradients to vanish [($O(e^{-\alpha N})$)](https://github.com/rnsln/2026-NVIDIA), meaning simple gradient descent gets stuck immediately.
+Standard Variational Quantum Eigensolvers (VQE) typically fail on the **Low Autocorrelation Binary Sequences (LABS)** problem due to **Barren Plateaus**. The energy landscape is exponentially flat, causing gradients to vanish $\mathcal{O}(e^{-\alpha N})$, meaning simple gradient descent gets stuck immediately.
 
 ## 🏗️ Our Architecture: Hybrid GQE-MTS
 Our approach prioritizes learning the **"Genetic Code"** (structural patterns) of the solution at a small scale ($N=10$) rather than brute-forcing large-scale optimization ($N=40$).
