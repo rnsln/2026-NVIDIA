@@ -3,8 +3,7 @@
 ## Team QAT — iQuHACK 2026
 ### Eren Aslan, Chang Jen Yu, Huseyin Umut Isik, Hatice Boyar, Ilayda Dilek
 
-🎥 **Project Demo Video:** [Watch here](https://drive.google.com/file/d/1z29MC4YeSgWLd6gvUHuDGQTEys9I7PIe/view?usp=sharing)  
-🌐 **Live Website:** Coming Soon!
+🌐 **Live Website:** https://qat-two.vercel.app/
 
 ---
 ### NOTE: We ran out of credits on NVIDIA Brev, so we couldn't get our final code from there. The GQE file under team submission is our algorithm, but a little bit old version. The benchmark results on the PRD are based on the newest version that is stuck on NVIDIA servers...
